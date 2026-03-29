@@ -6,6 +6,11 @@
 
 Building public-safe OpenClaw workflow templates across reusable skill publishing and workflow operations.
 
+## Start here
+
+- [openclaw-oss-starter](https://github.com/ztl970/openclaw-oss-starter)
+- [ClawHub publisher profile](https://clawhub.ai/)
+
 ## Current focus
 
 - public-safe OpenClaw skill publishing
@@ -25,6 +30,11 @@ This repository brings together:
 - ClawHub-published skills
 - deployment and validation helpers
 - Feishu-ready workflow and publishing docs
+
+## Active tracks
+
+- reusable skill publishing
+- workflow operations
 
 ## Skill collection highlights
 
